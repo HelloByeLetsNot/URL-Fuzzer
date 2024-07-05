@@ -21,11 +21,15 @@ You can install the required libraries using pip:
 pip install requests ttkthemes
 
 ## Clone
+
 ```sh
 git clone https://github.com/HelloByeLetsNot/URL-Fuzzer.git
 cd URL-Fuzzer
 
+
+
 ## Run
+
 ```sh
 python main.py
 
