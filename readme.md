@@ -28,7 +28,14 @@ python main.py
 
 
 ## Use the Application:
-Enter the URL: Input the URL you want to fuzz. Use FUZZ in the URL where you want to insert words from the wordlist.Select a Wordlist: Choose a wordlist file from the dropdown menu. The program will download the selected wordlist from the GitHub repository.Start Fuzzing: Click "Start Fuzzing" to begin. The results, including HTTP response codes for each fuzzed URL, will be displayed in the text area below.
+
+# Enter the URL: Input the URL you want to fuzz. Use FUZZ in the URL where you want to insert words from the wordlist.
+
+# Select a Wordlist: Choose a wordlist file from the dropdown menu. The program will download the selected wordlist from the GitHub repository.
+
+# Start Fuzzing: Click "Start Fuzzing" to begin.
+
+# The results, including HTTP response codes for each fuzzed URL, will be displayed in the text area below.
 
 
 
