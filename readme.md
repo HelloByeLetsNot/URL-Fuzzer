@@ -14,23 +14,16 @@ URL Fuzzer is a Python GUI application that allows users to perform URL fuzzing 
 - `requests` library
 - `ttkthemes` library
 
-You can install the required libraries using pip:
-
-
-```sh
+## You can install the required libraries using pip:
 pip install requests ttkthemes
 
 ## Clone
-
-```sh
 git clone https://github.com/HelloByeLetsNot/URL-Fuzzer.git
 cd URL-Fuzzer
 
 
 
 ## Run
-
-```sh
 python main.py
 
 
